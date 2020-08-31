@@ -35,3 +35,5 @@ schedule.scheduleJob(rule, function () {
   console.log('执行');
   send();
 });
+
+console.log('项目已启动。。。');
